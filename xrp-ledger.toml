@@ -1,0 +1,30 @@
+# Blinx Digital Technologies - The Life Currency
+# xrp-ledger.toml file for the XDT token
+
+[METADATA]
+modified = 2024-07-06T00:00:00.000Z
+expires = 2025-07-06T00:00:00.000Z
+
+
+[[ACCOUNTS]]
+address = "rnbmcQB78Gdz4EJbS2EG2sVRShESKFFPbe"
+desc = "Blinx Digital Technologies Issuer Address"
+# Note: This doesn't prove ownership of an account unless the
+#   "Domain" field of the account in the XRP Ledger matches the
+#   domain this file was served from.
+
+
+[[PRINCIPALS]]
+name = "Jeremy Cody"
+email = "jeremy@xdtxrp.org" # Replace with your real email address
+social_1 = "https://x.com/XDT_XRPL" # Replace with your actual social media URL
+social_2 = "https://www.linkedin.com/company/xdt-xrp/"
+
+[[CURRENCIES]]
+code = "XDT"
+issuer = "rnbmcQB78Gdz4EJbS2EG2sVRShESKFFPbe"
+network = "main"
+display_decimals = 4
+desc = "Blinx Digital Technologies - The Life Currency"
+url = "https://www.xdtxrp.org/"
+icon = "https://jremmyy.github.io/XDT/xdt.png"
