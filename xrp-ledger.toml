@@ -7,7 +7,7 @@ expires = 2025-07-06T00:00:00.000Z
 
 
 [[ACCOUNTS]]
-address = "rnbmcQB78Gdz4EJbS2EG2sVRShESKFFPbe"
+address = "rhuMHXnxGhGqJiHDBbwCqFb5KMAaGkwJeK"
 desc = "Blinx Digital Technologies Issuer Address"
 # Note: This doesn't prove ownership of an account unless the
 #   "Domain" field of the account in the XRP Ledger matches the
@@ -22,9 +22,9 @@ social_2 = "https://www.linkedin.com/company/xdt-xrp/"
 
 [[CURRENCIES]]
 code = "XDT"
-issuer = "rnbmcQB78Gdz4EJbS2EG2sVRShESKFFPbe"
+issuer = "rhuMHXnxGhGqJiHDBbwCqFb5KMAaGkwJeK"
 network = "main"
 display_decimals = 4
 desc = "Blinx Digital Technologies - The Life Currency"
-url = "https://www.xdtxrp.org/"
+url = "https://www.xdtxrp.io/"
 icon = "https://jremmyy.github.io/XDT/xdt.png"
